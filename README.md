@@ -30,13 +30,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-##### Frameworks/Libraries
+##### Frameworks/Libraries :
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-##### Tools
+##### Tools :
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -48,8 +48,6 @@
 ### 📄 My Resume  
 [![Download Resume](https://img.shields.io/badge/-Download%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/vishwesh_resume_3.pdf)
 [![Preview Resume](https://img.shields.io/badge/-Preview%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_3.pdf)
-[View My Resume](https://github.com/int-vishwesh/int-vishwesh/raw/main/Vishwesh_resume_3.pdf)
-[![Resume](https://img.shields.io/badge/-My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/Vishwesh_resume_3.pdf)
 
 ### 📫 Connect with Me
 

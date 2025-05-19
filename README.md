@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 ![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=VishweshAryan&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-ishwesh&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=int-vishwesh&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
 

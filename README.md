@@ -1,26 +1,13 @@
-- 👋 Hi, I’m @Int-vishwesh
-- 👀 I’m interested in . designing probably
-- 🌱 I’m currently learning backend to build a full-fledged working website
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..https://www.linkedin.com/in/vishwesh-aryan-608691236/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ... im avg in most of the things 😭😑
 
-<!---
-Int-vishwesh/Int-vishwesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hey there, I'm Vishwesh Aryan! 👋  
-*Also known as Techie Mini*
+# Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
 
 ---
 
 ## ⚡ About Me
-- 🎓 Computer Science Student  
+- 🎓 Computer Science Engineering Student  
 - 🚀 Passionate about Web Dev, AI, and Smart Tech  
-- 🎯 Currently building: **Lossie** (AI-Powered Lost & Found)  
-- 🧠 Learning: FastAPI | Keras | Blockchain  
-- ✨ Dream: Build tech that *feels like magic*
+- 🧠 Learning: backend | genAI | System Design
+- ✨ Dream: Build tech that *feels like magic and visually attractive*
 
 ---
 
@@ -30,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nextjs,react,python,mysql" />
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)

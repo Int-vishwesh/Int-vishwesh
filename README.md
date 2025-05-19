@@ -46,6 +46,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/int-vishwesh/int-vishwesh/Vishwesh_Resume_3.pdf)
 
 ## 📫 Connect with Me
 

@@ -10,6 +10,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
+<br> 
+![GitHub Streak](https://streak-stats.demolab.com?user=int-vishwesh&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
+
+---
 ## 💻 Tech Stack
 
 ### Languages : 
@@ -34,16 +43,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Adobe Express](https://img.shields.io/badge/-Adobe%20Express-FF0000?style=flat&logo=adobe&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
-<br> 
-![GitHub Streak](https://streak-stats.demolab.com?user=int-vishwesh&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
 ### 📄 My Resume  

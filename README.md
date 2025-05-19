@@ -1,8 +1,8 @@
-# Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
+## Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
 
 ---
 
-## About Me
+### About Me
 - Computer Science Engineering Student  🎓
 - Passionate about Web Dev, AI, and Smart Tech  
 - Learning: backend | genAI | System Design
@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
 <br> 
@@ -19,9 +19,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-#### Languages : 
+##### Languages : 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,13 +30,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### Frameworks/Libraries
+##### Frameworks/Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-#### Tools
+##### Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -45,13 +45,13 @@
 ![Adobe Express](https://img.shields.io/badge/-Adobe%20Express-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ---
-## 📄 My Resume  
-[![Download Resume](https://img.shields.io/badge/-Click%20to%20View%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/vishwesh_resume_3.pdf)
-[![Preview Resume](https://img.shields.io/badge/-Click%20to%20View%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_3.pdf)
+### 📄 My Resume  
+[![Download Resume](https://img.shields.io/badge/-Download%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/vishwesh_resume_3.pdf)
+[![Preview Resume](https://img.shields.io/badge/-Preview%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_3.pdf)
 [View My Resume](https://github.com/int-vishwesh/int-vishwesh/raw/main/Vishwesh_resume_3.pdf)
 [![Resume](https://img.shields.io/badge/-My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/Vishwesh_resume_3.pdf)
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwesh-aryan-608691236)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jerryaryan123@gmail.com)

@@ -46,7 +46,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/int-vishwesh/int-vishwesh/Vishwesh_Resume_3.pdf)
+### 📄 My Resume  
+[![Download Resume](https://img.shields.io/badge/-Click%20to%20View%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/Vishwesh_resume_3.pdf)
 
 ## 📫 Connect with Me
 

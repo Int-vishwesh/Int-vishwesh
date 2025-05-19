@@ -1,4 +1,3 @@
-
 # Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
 
 ---
@@ -7,7 +6,7 @@
 - 🎓 Computer Science Engineering Student  
 - 🚀 Passionate about Web Dev, AI, and Smart Tech  
 - 🧠 Learning: backend | genAI | System Design
-- ✨ Dream: Build tech that *feels like magic and visually attractive*
+- ✨ Dream: Build tech that *feels like magic and visually appealing*
 
 ---
 
@@ -41,14 +40,16 @@
 ## 📊 GitHub Stats
 
 ![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
+<br> 
 ![GitHub Streak](https://streak-stats.demolab.com?user=int-vishwesh&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwesh-aryan)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwesh-aryan-608691236)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jerryaryan123@gmail.com)
 
 ---

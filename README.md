@@ -1,6 +1,6 @@
  ## Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
  
-<br
+<br>
 ---
 
 ### About Me

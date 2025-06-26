@@ -1,18 +1,18 @@
- ### Hey there, 👋   
+> ### Hey there, 👋   
  ## I'm Vishwesh Aryan! (Jerry)
 <br>
 
 ---
 
-> ### About Me
-- Computer Science Engineering Student  🎓
+### 👨🏻‍🎓 About Me
+- Computer Science Engineering Student
 - Passionate about Web Dev, AI, and Smart Tech  
 - Learning: backend | genAI | System Design
 - Dream: Build tech that *feels like magic and visually appealing*
 
 ---
 
-> ### 📊 Stats
+### 📊 Stats
 
 ![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
 <br> 

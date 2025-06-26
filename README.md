@@ -1,5 +1,6 @@
-> ## Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
-
+ ## Hey there, I'm Vishwesh Aryan! (Jerry) 👋  
+ 
+<br
 ---
 
 ### About Me
@@ -10,7 +11,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 ![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-vishwesh&show_icons=true&theme=radical)
 <br> 

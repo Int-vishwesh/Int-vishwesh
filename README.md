@@ -10,6 +10,10 @@
 - Learning: backend | genAI | System Design
 - Dream: Build tech that *feels like magic and visually appealing*
 
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=int-vishwesh)
+
+
 ---
 
 ### 📊 Stats

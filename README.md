@@ -11,7 +11,8 @@
 - Dream: Build tech that *feels like magic and visually appealing*
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=int-vishwesh)
+
+![My Profile Visitors](https://komarev.com/ghpvc/?username=int-vishwesh&label=My+Profile+Visitors)
 
 
 ---

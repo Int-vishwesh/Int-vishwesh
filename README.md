@@ -61,7 +61,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwesh-aryan-608691236)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jerryaryan123@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto: vishwesharyann@gmail.com)
 
 ---
 

@@ -23,7 +23,7 @@
 <br> 
 ![GitHub Streak](https://streak-stats.demolab.com?user=int-vishwesh&theme=radical)
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/jerryaryan123?theme=dark&font=Manjari)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishwesh-aryan?theme=dark&font=Manjari)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int-vishwesh&layout=compact&theme=radical)
 

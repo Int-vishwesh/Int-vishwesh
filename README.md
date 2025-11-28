@@ -8,7 +8,7 @@
 - Computer Science Engineering Student
 - Passionate about Web Dev, AI, and Smart Tech  
 - Learning: backend | genAI | System Design
-- Dream: Build tech that *feels like magic and visually appealing*
+- Dream: Build tech that *feels like magic and visually appealing* (fekta hua mai)
 
 <br>
 

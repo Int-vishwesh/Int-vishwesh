@@ -1,14 +1,14 @@
-> ### Hey there, 👋
->  ## I'm Vishwesh Aryan! (Jerry)
+### Hey there, 👋
+## I'm Vishwesh Aryan! (Jerry)
 <br>
 
 ---
 
-### 👨🏻‍🎓 About Me
-- Computer Science Engineering Student
-- Passionate about Web Dev, AI, and Smart Tech  
-- Learning: backend | genAI | System Design
-- Dream: Build tech that *feels like magic and visually appealing* (fekta hua mai)
+> ### 👨🏻‍🎓 About Me
+> - Computer Science Engineering Student
+>- Passionate about Web Dev, AI, and Smart Tech  
+>- Learning: backend | genAI | System Design
+>-Dream: Build tech that *feels like magic and visually appealing* (fekta hua mai)
 
 <br>
 
@@ -56,12 +56,13 @@
 ---
 ### 📄 My Resume  
 [![Download Resume](https://img.shields.io/badge/-Download%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/vishwesh_resume_3.pdf)
+
 [![Preview Resume](https://img.shields.io/badge/-Preview%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_3.pdf)
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwesh-aryan-608691236)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto: vishwesharyann@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vishwesharyann@gmail.com)
 
 ---
 

@@ -6,9 +6,9 @@
 
 > ### 👨🏻‍🎓 About Me
 > - Computer Science Engineering Student
->- Passionate about Web Dev, AI, and Smart Tech  
+>- Web Dev, AI, and Smart Tech  
 >- Learning: backend | genAI | System Design
->-Dream: Build tech that *feels like magic and visually appealing* (fekta hua mai)
+>- Dream: Build tech that *feels like magic and visually appealing* (fekta hua mai)
 
 <br>
 
@@ -66,4 +66,4 @@
 
 ---
 
-*Thanks for visiting my digital space — Happy Coding!*
+*Thanks for visiting my digital space *

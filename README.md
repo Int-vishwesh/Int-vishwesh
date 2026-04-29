@@ -57,7 +57,7 @@
 ### 📄 My Resume  
 [![Download Resume](https://img.shields.io/badge/-Download%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/raw/main/vishwesh_resume_v.pdf)
 
-[![Preview Resume](https://img.shields.io/badge/-Preview%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_3.pdf)
+[![Preview Resume](https://img.shields.io/badge/-Preview%20My%20Resume-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/int-vishwesh/int-vishwesh/blob/main/vishwesh_resume_v.pdf)
 
 ### 📫 Connect with Me
 
